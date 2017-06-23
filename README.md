@@ -6,5 +6,5 @@
 ***
 **此应用已部署在 sae 独享环境中**   
 **部署源码：** https://github.com/myxing90/mysite_sae_dx     
-**部署网址**：[mayaxing.applinzi.com](mayaxing.applinzi.com)    
+**部署网址**：[mayaxing.applinzi.com](http://mayaxing.applinzi.com)    
 **联系作者**：可通过应用中的**反馈**功能联系作者，信息会通过邮件传达  
